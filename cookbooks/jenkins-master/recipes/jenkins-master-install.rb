@@ -6,7 +6,7 @@ package 'fontconfig' do
   action :install
 end
 
-package 'openjdk-11-jre' do
+package 'openjdk-17-jre' do
   action :install
 end
 
